@@ -33,6 +33,6 @@ void led_init(void)
 	
 	LED0(1);
 	
-	LED1(1);
+	//LED1(1);
 
 }
